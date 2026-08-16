@@ -9,11 +9,11 @@
 
 <br><br>
 
-<a href="https://github.com/yeysondev">
+<a href="https://github.com/pipodev06">
   <img src="https://img.shields.io/github/followers/pipodev06?style=for-the-badge&logo=github&label=Followers&color=1A5276&labelColor=0B1622"/>
 </a>
 
-<a href="https://github.com/yeysondev">
+<a href="https://github.com/pipodev06">
   <img src="https://img.shields.io/github/stars/pipodev06?style=for-the-badge&logo=github&label=Stars&color=0F2D4A&labelColor=0B1622"/>
 </a>
 
@@ -89,19 +89,23 @@ Rendimiento Primero
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=yeysondev&show_icons=true&theme=github_dark&hide_border=true&bg_color=0B1622&title_color=5DADE2&icon_color=1A5276&text_color=ffffff" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeysondev&layout=compact&theme=github_dark&hide_border=true&bg_color=0B1622&title_color=5DADE2&text_color=ffffff" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=pipodev06&show_icons=true&theme=github_dark&hide_border=true&bg_color=0B1622&title_color=5DADE2&icon_color=1A5276&text_color=ffffff" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pipodev06&layout=compact&theme=github_dark&hide_border=true&bg_color=0B1622&title_color=5DADE2&text_color=ffffff" height="165"/>
 
 <br><br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=yeysondev&theme=github-dark-blue&hide_border=true&background=0B1622&stroke=0F2D4A&ring=5DADE2&fire=1A5276&currStreakLabel=5DADE2"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=pipodev06&theme=github-dark-blue&hide_border=true&background=0B1622&stroke=0F2D4A&ring=5DADE2&fire=1A5276&currStreakLabel=5DADE2"/>
+
+<br><br>
+
+<img src="https://github-profile-trophy.vercel.app/?username=pipodev06&theme=onedark&no-frame=true&no-bg=true&margin-w=12&margin-h=12&column=7"/>
 
 <br><br>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yeysondev/yeysondev/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yeysondev/yeysondev/output/github-contribution-grid-snake.svg"/>
-  <img alt="snake animation" src="https://raw.githubusercontent.com/yeysondev/yeysondev/output/github-contribution-grid-snake.svg"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pipodev06/pipodev06/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pipodev06/pipodev06/output/github-contribution-grid-snake.svg"/>
+  <img alt="snake animation" src="https://raw.githubusercontent.com/pipodev06/pipodev06/output/github-contribution-grid-snake.svg"/>
 </picture>
 
 </div>
