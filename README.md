@@ -89,16 +89,7 @@ Rendimiento Primero
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=pipodev06&show_icons=true&theme=github_dark&hide_border=true&bg_color=0B1622&title_color=5DADE2&icon_color=1A5276&text_color=ffffff" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pipodev06&layout=compact&theme=github_dark&hide_border=true&bg_color=0B1622&title_color=5DADE2&text_color=ffffff" height="165"/>
-
-<br><br>
-
 <img src="https://github-readme-streak-stats.herokuapp.com?user=pipodev06&theme=github-dark-blue&hide_border=true&background=0B1622&stroke=0F2D4A&ring=5DADE2&fire=1A5276&currStreakLabel=5DADE2"/>
-
-<br><br>
-
-<img src="https://github-profile-trophy.vercel.app/?username=pipodev06&theme=onedark&no-frame=true&no-bg=true&margin-w=12&margin-h=12&column=7"/>
 
 <br><br>
 
